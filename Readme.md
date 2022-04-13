@@ -23,7 +23,7 @@ Server와 Client를 따로 나누었습니다.
 ### 파일 암호화 테스트 방법
 * MainServer.js를 먼저 실행하신 후에 MainClient.js를 실행해주세요
 * client/src/ 아래에 있는 file.txt에 내용을 확인합니다.
-* ![image](https://user-images.githubusercontent.com/49195475/163256246-daf03f81-2f52-42c2-98fd-f6630d142905.png)
+* ![image](https://user-images.githubusercontent.com/49195475/163257517-9f30980c-0c05-46df-a766-6f25ae6fc626.png)
 * 그림의 빨강색 동그라미에 위치해 있는 텍스트 입력칸에 file.txt를 입력해주세요.
 * Encrypt File 버튼을 통해 암호화 한 후 Send버튼을 눌러 서버에 전송해주세요.
 * 서버에서 암호화된 파일을 수신했다는 알림을 확인할 수 있고,
